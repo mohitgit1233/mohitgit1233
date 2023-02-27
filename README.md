@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Wadhwa</h1>
 <h3 align="center">A Software developer with the dream to change the world</h3>
 
-- 🔭 I’m currently working on [AI integrated project](-)
+- 🔭 I’m currently working on [AI integrated project](https://quizmaster-ai.netlify.app/)
 
 - 🌱 I’m currently learning **TypeScript, AWS, Microservices, DevOps**
 
