@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mohit-wadhwa.dev/](https://mohit-wadhwa.dev/)
 
-- 💬 Ask me about **React, NodeJs, JavaScript**
+- 💬 Ask me about **React, NodeJs, JavaScript, HTML, CSS**
 
 - 📫 How to reach me **mohitwadhwa1233@gmail.com**
 
